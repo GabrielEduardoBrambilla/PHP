@@ -1,0 +1,11 @@
+.forms{
+    background-color: lightblue;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: auto;
+    position: absolute;
+    align-items: center;
+}
+.bc-body{
+    background-color: blue;
+}
